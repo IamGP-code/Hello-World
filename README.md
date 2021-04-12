@@ -2,6 +2,6 @@
 
 
 HELLO WORLD !!!
-This s My First Repasitory on GITHUB.COM
+This s My First Repository on GITHUB.COM
 
 Hoping to Learn More
